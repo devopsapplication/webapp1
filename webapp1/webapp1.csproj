@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include=".github\workflows\workflow.yml" />
+    <Folder Include=".github\" />
   </ItemGroup>
 
 </Project>
